@@ -5,6 +5,6 @@ Developed in Flutter
 
 ## Screenshots
 
-![Pomodoro Timer Screenshot](ScreenShots/rest time screenshoot.jpg)
+![Pomodoro Timer Screenshot](/ScreenShots/rest time screenshoot.jpg?raw=true)
 
-![Pomodoro Setting Screenshot](ScreenShots/setting screenshoot.jpg)
+![Pomodoro Setting Screenshot](ScreenShots/setting screenshoot.jpg?raw=true)s
