@@ -1,10 +1,10 @@
-# pomodorotimer
+# pomodorotimerApp 
 
-A Pomodoro Focus Timer
+A Pomodoro Focus Timer App
 Developed in Flutter
 
 ## Screenshots
 
-![Pomodoro Timer Screenshot](TimerScreenshot.png)
+![Pomodoro Timer Screenshot](ScreenShots/rest time screenshoot.jpg)
 
-![Pomodoro Setting Screenshot](SettingScreenshot.png)
+![Pomodoro Setting Screenshot](ScreenShots/setting screenshoot.jpg)
